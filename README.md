@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PasJansen
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java, C, C++ and Pyhton
+- 🌱 I’m currently learning Java, C, C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Pascal.Jansen@gmx.net
 
